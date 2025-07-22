@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samod Sachithra Samarasinghe</h1>
 <h3 align="center">“Full Stack Developer & Data Scientist | Code. Data. Impact.”</h3>
 
-
-
-![Banner](https://yourdomain.com/banner.png)
-
-I’m a Full Stack Developer & Data Scientist...
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samodsachithra&label=Profile%20views&color=0e75b6&style=flat" alt="samodsachithra" /> </p>
 
 - 🌱 I’m currently learning **Data Science and full stack developer**
