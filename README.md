@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samod Sachithra Samarasinghe</h1>
 <h3 align="center">“Full Stack Developer & Data Scientist | Code. Data. Impact.”</h3>
 
+
+<p align="center">
+  <img src="llllllllllllllllllllllllllll_a_robot_with_a_human_face_futurist_d0a333b3-9c5d-4335-88af-377b8331d6f0-1024x591.png" width="400" height="400">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samodsachithra&label=Profile%20views&color=0e75b6&style=flat" alt="samodsachithra" /> </p>
 
 - 🌱 I’m currently learning **Data Science and full stack developer**
